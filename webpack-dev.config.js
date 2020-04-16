@@ -31,7 +31,7 @@ const configs = addBaseConfig({
   plugins: [
     new HotModuleReplacementPlugin(),
     new HtmlWebpackPlugin({
-      title: 'React VideoCall - Minh Son Nguyen',
+      title: 'Imlachchat - Patrick Gomez',
       filename: 'index.html',
       template: 'src/html/index.html'
     })
