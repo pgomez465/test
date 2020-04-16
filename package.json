@@ -1,7 +1,7 @@
 {
-  "name": "react-videocall",
+  "name": "Imlachchat",
   "version": "1.0.0",
-  "description": "React VideoCall App",
+  "description": "A chat solution for the moving industry",
   "scripts": {
     "build": "cd client && webpack --config webpack-prod.config.js",
     "start": "node server/index.js",
@@ -53,8 +53,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nguymin4/react-videocall.git"
+    "url": "git+https://github.com/pgomez465/test.git"
   },
-  "author": "Minh Son Nguyen",
+  "author": "Patrick Gomez",
   "license": "MIT"
 }
